@@ -150,9 +150,9 @@ Example:
 
 👤 **Ibute Uchenna**
 
-- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
-- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
+- GitHub: [@Uchennaibute](https://github.com/Uchennaibute@github)
+- Twitter: [@Uc_Ibute](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [Uchenna Ibute](https://linkedin.com/in/Uchennaibute@linkedin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
