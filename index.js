@@ -3,11 +3,13 @@ import Book from './modules/book.js';
 import nav from './modules/nav.js';
 import { DateTime } from './modules/luxon.js';
 import store from './modules/store.js';
+
 class All {
   static displayBooks() {
     const books = store.getBooks();
     books.forEach((book) => All.addBookToList(book));
   }
+
   static addBookToList(book) {
     const list = document.querySelector('#bookli');
     const row = document.createElement('tr');
@@ -27,6 +29,7 @@ class All {
 
   static clearField() {
     document.querySelector('#title').value = '';
+    
     document.querySelector('#author').value = '';
   }
 

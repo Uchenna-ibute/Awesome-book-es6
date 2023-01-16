@@ -2,7 +2,7 @@ export default class store {
   static getBooks() {
     let books;
     if (localStorage.getItem('books') === null) {
-       books = [];
+      books = [];
     } else {
       books = JSON.parse(localStorage.getItem('books'));
     }
@@ -21,7 +21,7 @@ export default class store {
     books.filter((book) => {
       if (book.author !== author) { index = +1; }
       return books;
-      });
+    });
       books.splice(index, 1);
       localStorage.setItem('books', JSON.stringify(books));
   }
