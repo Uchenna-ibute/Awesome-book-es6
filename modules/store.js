@@ -22,7 +22,7 @@ export default class store {
       if (book.author !== author) { index = +1; }
       return books;
     });
-      books.splice(index, 1);
-      localStorage.setItem('books', JSON.stringify(books));
+    books.splice(index, 1);
+    localStorage.setItem('books', JSON.stringify(books));
   }
 }

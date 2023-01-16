@@ -29,11 +29,10 @@ class All {
 
   static clearField() {
     document.querySelector('#title').value = '';
-    
     document.querySelector('#author').value = '';
   }
-
 }
+
 const time = document.querySelector('#time');
 const ate = DateTime.now().toLocaleString(DateTime.DATETIME_MED);
 time.innerHTML = ate;
