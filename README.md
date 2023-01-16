@@ -1,76 +1,222 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Awesome Books with ES6
+<div align="center">
 
-> In this project, we built a basic website that allows users to add or remove books from a list. By designing this website, we learned different concepts of JavaScript such as Class, objects, array, local storage, and DOM manipulation.  
+  <img src="img/letter.jpg" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Built With
+  <h3><b>Book List With ES6</b></h3>
 
-- Major languages(HTML, ES6-JAVASCRIPT & CSS)
-- Frameworks(NONE)
-- Technologies used(GIT, GITHUB, VSCODE)
+</div>
 
-## Live Demo (available)
+<!-- TABLE OF CONTENTS -->
 
-[Live Demo Link](https://shaheryar0054.github.io/Awesome-books-with-ES6/)
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Book-List <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
+
+**Book List** is a my microverse project, second week of module 2. A website to list book with ES6
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<ul>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">JavaScript</a></li>
+  </ul>
 
 
-## Getting Started
+<!-- Features -->
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
 
-To get a local copy up and running follow these simple example steps.
+- **Mobile and desktop versions of Main page**
+- **Mobile and desktop versions of About page**
+- **Responsive webpages developed with Responsive Web Design principle**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link]( https://uchenna-ibute.github.io/Awesome-book-es6/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
-- Browser
-- git
-- code editor
+
+In order to run this project you need:
+
+git - git should be installed in local machine. git is necessary for cloning this project repository
+
 
 ### Setup
-To get a local copy up and running follow these simple example steps.
 
-- Clone the repository using:
+Clone this repository to your desired folder:
+
+git clone https://github.com/Uchenna-ibute/Awesome-book-es6.git
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
 ```
-    https://github.com/Shaheryar0054/Awesome-books-with-ES6.git 
-```
-- Navigate to the Awesome-Books with this command 
-```
-    cd Awesome-Books
-```
+--->
 
 ### Usage
-- Open in browser
-- Add and remove books
 
-## Authors
+To run the project, execute the following command:
 
-👤 **Mujeeb ur Rahman**
+<!--
+Example command:
 
--  GitHub: [@shaheryar0054](https://github.com/Shaheryar0054)
-- Twitter: [@sharya0310](https://twitter.com/home)
-- LinkedIn: [@shaheryar](https://www.linkedin.com/in/shaheryar-abid-8758121b3/)
+```sh
+  rails server
+```
+--->
 
-## 🤝 Contributing
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Ibute Uchenna**
+
+- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
+- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Shaheryar0054/Awesome-books-with-ES6/issues).
+Feel free to check the [issues page](https://github.com/Uchenna-ibute/Awesome-book-es6/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to the Code Reviewer(s) for the insightful feedback.
-- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
-- Hat tip to anyone whose code was used.
+> Write a message to encourage readers to support your project
 
-## 📝 License
+If you like this project, please provide a STAR in
+[Github project repository](https://github.com/Uchenna-ibute/Awesome-book-es6.git)
 
-This project is [MIT]() licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
