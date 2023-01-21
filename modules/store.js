@@ -4,7 +4,7 @@ export default class store {
     if (localStorage.getItem('books') === null) {
       books = [];
     } else {
-      books = JSON.parse(localStorage.getItem('boks'));
+      books = JSON.parse(localStorage.getItem('books'));
     }
     return books;
   }
